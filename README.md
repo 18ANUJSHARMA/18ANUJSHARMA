@@ -1,4 +1,4 @@
-<img alt="coding" height="5%" width="100%" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
+<img alt="coding"  width="1000" src="https://github.com/18ANUJSHARMA/18ANUJSHARMA/blob/main/Screenshot%202023-07-15%20161806.png">
 <h1 align="center">Hi 👋, I'm ANUJ SHARMA</h1>
 <h3 align="center">A web developer in making</h3>
 
