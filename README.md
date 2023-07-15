@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="75" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img alt="coding" height="5%" width="100%" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
 <h1 align="center">Hi 👋, I'm ANUJ SHARMA</h1>
 <h3 align="center">A web developer in making</h3>
 
