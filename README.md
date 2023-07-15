@@ -1,3 +1,4 @@
+![logo](https://github.com/18ANUJSHARMA/18ANUJSHARMA/blob/main/banner.webp)
 <h1 align="center">Hi 👋, I'm ANUJ SHARMA</h1>
 <h3 align="center">A web developer in making</h3>
 
